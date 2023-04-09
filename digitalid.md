@@ -10,7 +10,7 @@ nav_order: 2
 
 In this section, you will learn how to obtain a Digital ID to use the platform. 
 
-A Digital ID is awarded to a learner who has verified their identity with a photo ID such as a national id, driver's permit or passport. 
+A Digital ID is issued to a learner who has verified their identity with a photo ID such as a national id, driver's permit or passport. 
 
 ## Sign up
 

@@ -25,5 +25,5 @@ A learner will complete several modules based on their desired learning path. A 
 
 ## Getting Started
 
-- Obtain a Digital ID
+- [Obtain a Digital ID](digitalid.md)
 - [Register for a Module](./regsitration.md)

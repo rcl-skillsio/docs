@@ -12,7 +12,7 @@ RCL Skills.IO is an online platform for assisting learners to achieve workplace 
 
 - the learner completing software development projects on GitHub
 - the mentor will review the learner's code and provide useful feedback 
-- the mentor will conduct a *coding interview* with the learner in a virtual meeting to determine to learner's skill and knowledge
+- the mentor will conduct a *coding interview* with the learner in a virtual meeting to determine the learner's skill and knowledge
 - the mentor will create a *digital badge* for the learner to track his/her achievement when competence is achieved
 
 ## Modules

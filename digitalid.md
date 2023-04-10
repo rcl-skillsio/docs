@@ -32,7 +32,7 @@ A Digital ID is issued to a learner who has verified their identity with a photo
 
 - Upload a photo for your profile image
 
-- Upload a selfie image of you holding up a photo id (national id, driver's permit or passport next) next to your face
+- Upload a selfie image of you holding up a photo id (national id, driver's permit or passport) next to your face
 
 - Click the submit button when you are done
 

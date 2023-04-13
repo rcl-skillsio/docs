@@ -5,7 +5,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Register for a Module in Skills.IO
+# Register for a Module in RCL Skills.IO
 **V7**
 
 In this section, you will learn how to register for a module. A **module** is a discrete area of workplace learning in which a learner would achieve competence. A *specification* is provided for each module to outline the competences that the learner must achieve to earn a badge for the module. The mentor will work with the learner for the learner to achieve the competences.

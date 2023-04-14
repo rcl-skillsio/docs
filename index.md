@@ -30,3 +30,4 @@ A learner will complete several modules based on their desired learning path. A 
 - [Review the Assessment Plan](./assessment.md)
 - [Complete the Coding Challenge](./codingchallenge.md)
 - [Attend the Coding Interview](./codinginterview.md)
+- [Earn a Digital Badge](./badge.md)

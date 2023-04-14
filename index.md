@@ -28,3 +28,5 @@ A learner will complete several modules based on their desired learning path. A 
 - [Obtain a Digital ID](digitalid.md)
 - [Register for a Module](./regsitration.md)
 - [Review the Assessment Plan](./assessment.md)
+- [Complete the Coding Challenge](./codingchallenge.md)
+- [Attend the Coding Interview](./codinginterview.md)
